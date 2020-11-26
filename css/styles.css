@@ -209,7 +209,7 @@ color: #2196F3;
   /*color: #FFFFFF;*/
 }
 .address-style-inf {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -223,3 +223,15 @@ color: #2196F3;
  list-style-type: none; 
 }
 .studio-white{color: white;}
+
+.address-mail-blue,
+.navigation-list-item-blue,.navigation-list-item-port-blue
+ {font-family:"Roboto", sans-serif;/*задаем голубой для*/
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #2196F3;
+text-decoration: none;
+}
