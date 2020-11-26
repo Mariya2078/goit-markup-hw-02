@@ -235,9 +235,8 @@ letter-spacing: 0.02em;
 color: #2196F3;
 text-decoration: none;
 }
-
 .service{
-font-family: Roboto;
+font-family: "Roboto", sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 16px;
@@ -248,5 +247,24 @@ letter-spacing: 0.06em;
 color: #FFFFFF;
 }
 .button-service{
- list-style-type: none; 
+list-style-type: none; 
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.03em;
+color: #212121;
 }
+.button-service-white{
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+}
+.button
+{list-style-type: none; }
