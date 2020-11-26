@@ -6,7 +6,8 @@
   line-height: 1.1422;
   letter-spacing: 0.02em;
   color: #212121;
-  text-decoration: none
+  text-decoration: none;
+  list-style-type: none;
 }
 
 .address-mail,
@@ -41,6 +42,23 @@
   /*color: #FFFFFF;}*/}
 
    /*OUR WORK IDEA */
+.work-idea
+{
+font-family:"Roboto", sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+list-style-type: none;
+}
+.work{list-style-type: none;}
+
+
+
+
   .work-idea-optoins {
     font-family: "Roboto", sans-serif;
     font-style: normal;
@@ -109,7 +127,7 @@ text-decoration: none
 
  }
   /*ADDRESS*/
-  .navigation-logo{
+  .studio{
 font-family: 'Raleway', sans-serif;;
 font-style: normal;
 font-weight: bold;
@@ -117,9 +135,9 @@ font-size: 26px;
 line-height: 1.19;
 letter-spacing: 0.03em;
 text-decoration: none;
-/*color: #2196F3;*/
+color: black;
 }
-.navigation-logo
+.web
 {
 font-family: Raleway;
 font-style: normal;
@@ -200,4 +218,8 @@ color: #2196F3;
   letter-spacing: 0.03em;
   /* color: rgba(255, 255, 255, 0.6);*/
   text-decoration: none;
+}
+.navigation-list
+{
+ list-style-type: none; 
 }
